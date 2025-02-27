@@ -1,0 +1,5 @@
+---
+'@ixfxfun/palettes': patch
+---
+
+Initial
