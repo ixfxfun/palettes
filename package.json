@@ -1,0 +1,54 @@
+{
+  "name": "@clinth/template-ts-lib",
+  "version": "1.0.1",
+  "author": "Clint Heyer",
+  "homepage": "https://clintio.us",
+  "description": "",
+  "type": "module",
+  "main": "dist/index.js",
+  "exports": {
+    ".": "./dist/src/index.js"
+  },
+  "imports": {
+    "#root/*": "./*"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "vitest",
+    "ci": "npm run build && npm run check-format && npm run check-exports && npm run test",
+    "format": "prettier --write .",
+    "check-knip": "knip --config ./knip.json",
+    "check-exports": "attw --pack . --profile=node16 --profile=esm-only",
+    "check-format": "prettier --check .",
+    "test": "vitest run",
+    "local-release": "changeset version && changeset publish",
+    "prepublishOnly": "npm run ci",
+    "api": "shx rm -rf docs/api/ && typedoc --out docs/api/ --readme none --entryPoints src --entryPointStrategy expand --exclude '**/*.test.ts'"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "devDependencies": {
+    "@arethetypeswrong/cli": "0.17.3",
+    "@changesets/cli": "2.27.12",
+    "prettier": "3.5.0",
+    "shx": "0.3.4",
+    "typedoc": "0.27.7",
+    "typescript": "5.8.0-beta",
+    "vitest": "3.0.5"
+  },
+  "files": [
+    "package.json",
+    "README.md",
+    "LICENSE",
+    "src/**/*.ts",
+    "dist/**/*.js",
+    "dist/**/*.js.map",
+    "dist/**/*.d.ts",
+    "dist/**/*.d.ts.map",
+    "!src/**/*.test.ts",
+    "!dist/**/*.test.js",
+    "!dist/**/*.test.js.map",
+    "!dist/**/*.test.d.ts",
+    "!dist/**/*.test.d.ts.map"
+  ]
+}
