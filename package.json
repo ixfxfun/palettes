@@ -1,5 +1,5 @@
 {
-  "name": "@clinth/template-ts-lib",
+  "name": "@ixfx/palettes",
   "version": "1.0.1",
   "author": "Clint Heyer",
   "homepage": "https://clintio.us",
@@ -50,5 +50,8 @@
     "!dist/**/*.test.js.map",
     "!dist/**/*.test.d.ts",
     "!dist/**/*.test.d.ts.map"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
