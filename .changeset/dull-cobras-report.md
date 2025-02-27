@@ -1,0 +1,5 @@
+---
+'@ixfx/palettes': patch
+---
+
+test
