@@ -1,11 +1,11 @@
 {
   "name": "@ixfx/palettes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Clint Heyer",
   "homepage": "https://clintio.us",
   "description": "",
   "type": "module",
-  "main": "dist/index.js",
+  "main": "./dist/src/index.js",
   "exports": {
     ".": "./dist/src/index.js"
   },
@@ -15,13 +15,15 @@
   "scripts": {
     "build": "tsc",
     "dev": "vitest",
-    "ci": "npm run build && npm run check-format && npm run check-exports && npm run test",
-    "format": "prettier --write .",
-    "check-knip": "knip --config ./knip.json",
-    "check-exports": "attw --pack . --profile=node16 --profile=esm-only",
-    "check-format": "prettier --check .",
+    "ci": "npm run build && npm run lint && npm run attw && npx publint && npm run test",
+    "clean": "rm -rf ./dist",
+    "fix": "biome check --write .",
+    "lint": "biome ci .",
+    "format": "format .",
+    "knip": "knip --config ./knip.json",
+    "attw": "attw --pack . --profile=node16 --profile=esm-only",
     "test": "vitest run",
-    "local-release": "changeset version && changeset publish",
+    "release": "changeset version && changeset publish",
     "prepublishOnly": "npm run ci",
     "api": "shx rm -rf docs/api/ && typedoc --out docs/api/ --readme none --entryPoints src --entryPointStrategy expand --exclude '**/*.test.ts'"
   },
@@ -29,8 +31,9 @@
   "license": "MIT",
   "devDependencies": {
     "@arethetypeswrong/cli": "0.17.3",
+    "@biomejs/biome": "1.9.4",
     "@changesets/cli": "2.27.12",
-    "prettier": "3.5.0",
+    "publint": "0.3.7",
     "shx": "0.3.4",
     "typedoc": "0.27.7",
     "typescript": "5.8.0-beta",
