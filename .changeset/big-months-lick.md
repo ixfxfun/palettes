@@ -1,5 +1,0 @@
----
-"@ixfx/palettes": patch
----
-
-exports

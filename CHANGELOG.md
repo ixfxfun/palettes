@@ -1,5 +1,11 @@
 # @clinth/template-ts-lib
 
+## 1.0.3
+
+### Patch Changes
+
+- 4128605: exports
+
 ## 1.0.2
 
 ### Patch Changes

@@ -1,13 +1,17 @@
 {
   "name": "@ixfx/palettes",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Clint Heyer",
   "homepage": "https://clintio.us",
   "description": "",
   "type": "module",
   "main": "./dist/src/index.js",
   "exports": {
-    ".": "./dist/src/index.js"
+    ".": "./dist/src/index.js",
+    "./bidi/*": {
+      "types": "./dist/src/bidi/*.d.ts",
+      "import": "./dist/src/bidi/*.js"
+    }
   },
   "imports": {
     "#root/*": "./*"
