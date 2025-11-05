@@ -1,0 +1,2339 @@
+[
+  {
+    "name": "Color Palette #51",
+    "hex": [
+      "#FC7869",
+      "#F5AE52",
+      "#E7E8FB",
+      "#D3D6FD",
+      "#9EA3F3"
+    ]
+  },
+  {
+    "name": "Color Palette #37",
+    "hex": [
+      "#867969",
+      "#FDFDFB",
+      "#D2C5BA",
+      "#5E7186",
+      "#B9C5D1"
+    ]
+  },
+  {
+    "name": "Color Palette #29",
+    "hex": [
+      "#7A706C",
+      "#FF6A2A",
+      "#B8C1C2",
+      "#D8D8D8",
+      "#F0F3F2"
+    ]
+  },
+  {
+    "name": "Color Palette #16",
+    "hex": [
+      "#DAD7CD",
+      "#A3B18A",
+      "#588157",
+      "#3A5A40",
+      "#344E41"
+    ]
+  },
+  {
+    "name": "Color Palette #07a",
+    "hex": [
+      "#CED4B2",
+      "#EAECCD",
+      "#FEFAE3",
+      "#F8EDD0",
+      "#CDA47A"
+    ]
+  },
+  {
+    "name": "Traverse City",
+    "hex": [
+      "#F093B3",
+      "#64C4C3",
+      "#F8D49A",
+      "#F7E6CA"
+    ]
+  },
+  {
+    "name": "Candle",
+    "hex": [
+      "#FA8D70",
+      "#FCC666",
+      "#73607C",
+      "#C1B9AE"
+    ]
+  },
+  {
+    "name": "Mystic",
+    "hex": [
+      "#4663BE",
+      "#8DBAFE",
+      "#21AEE4",
+      "#85F1FE"
+    ]
+  },
+  {
+    "name": "Tangerine",
+    "hex": [
+      "#FF6D00",
+      "#FF9201",
+      "#FFAB41",
+      "#FFD181"
+    ]
+  },
+  {
+    "name": "Samantha",
+    "hex": [
+      "#4A54CF",
+      "#B473D7",
+      "#FFC478",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Sailor",
+    "hex": [
+      "#364C96",
+      "#FF8496",
+      "#FFC9A5",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Wave Runner",
+    "hex": [
+      "#3A3C6E",
+      "#506ED1",
+      "#73B4F1",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Shallows",
+    "hex": [
+      "#0E456E",
+      "#2D92AA",
+      "#67E0AF",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Sunrise",
+    "hex": [
+      "#3A448C",
+      "#FF7DA1",
+      "#FFC864",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Jasmine",
+    "hex": [
+      "#851F6F",
+      "#CE4689",
+      "#FF75A1",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Mist",
+    "hex": [
+      "#007280",
+      "#21B8B5",
+      "#7FD0FF",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Lagoon",
+    "hex": [
+      "#26798E",
+      "#63CAA7",
+      "#FFC172",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Turtle",
+    "hex": [
+      "#31B189",
+      "#7ACE67",
+      "#FFC872",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Sunset",
+    "hex": [
+      "#C848B9",
+      "#F962A7",
+      "#FD836D",
+      "#FFBA69"
+    ]
+  },
+  {
+    "name": "Turtles",
+    "hex": [
+      "#46A093",
+      "#6BBD98",
+      "#AECFA3",
+      "#C4E8BF"
+    ]
+  },
+  {
+    "name": "Schoolhouse",
+    "hex": [
+      "#75D5A8",
+      "#98D7E5",
+      "#FFDB70",
+      "#FB8570"
+    ]
+  },
+  {
+    "name": "Mystic",
+    "hex": [
+      "#4464BE",
+      "#1FAFE4",
+      "#85F1FF",
+      "#8DB9FF"
+    ]
+  },
+  {
+    "name": "Docks",
+    "hex": [
+      "#43506C",
+      "#EF4B4C",
+      "#3D6191B",
+      "#E9E9EB"
+    ]
+  },
+  {
+    "name": "Slate",
+    "hex": [
+      "#5b7af",
+      "#508d3",
+      "#a5def1",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Cooler",
+    "hex": [
+      "#4B8BF4",
+      "#1F9CE4",
+      "#3E60C1",
+      "#5983FC"
+    ]
+  },
+  {
+    "name": "Mutable",
+    "hex": [
+      "#3b9999B",
+      "#5678A2",
+      "#EE5872",
+      "#E3E45E"
+    ]
+  },
+  {
+    "name": "Lavender",
+    "hex": [
+      "#C2518B",
+      "#5E4DAA",
+      "#F47DBA",
+      "#964EC2"
+    ]
+  },
+  {
+    "name": "Embers",
+    "hex": [
+      "#411436A",
+      "#964063",
+      "#F64668",
+      "#FE9677"
+    ]
+  },
+  {
+    "name": "Tangerine",
+    "hex": [
+      "#FF6D00",
+      "#FF9201",
+      "#FFBA40",
+      "#FFD180"
+    ]
+  },
+  {
+    "name": "Granite",
+    "hex": [
+      "#3b7b9a",
+      "#70afce",
+      "#a5def1",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Summer",
+    "hex": [
+      "#2B8D79",
+      "#5E9488",
+      "#CEE8B6",
+      "#8FC69A"
+    ]
+  },
+  {
+    "name": "Lagoon",
+    "hex": [
+      "#00ff00",
+      "#00f0f0",
+      "#ffffff",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Moss",
+    "hex": [
+      "#00f0f0",
+      "#00f0f0",
+      "#00e0c7",
+      "#FFFFFF"
+    ]
+  },
+  {
+    "name": "Cabana",
+    "hex": [
+      "#24698",
+      "#20966F",
+      "#D7415E",
+      "#FFDA5F"
+    ]
+  },
+  {
+    "name": "Candle",
+    "hex": [
+      "#ff8c0f",
+      "#736007",
+      "#c19bae",
+      "#fdc664"
+    ]
+  },
+  {
+    "name": "Sunset",
+    "hex": [
+      "#355C7D",
+      "#725A7A",
+      "#C56C86",
+      "#FF7582"
+    ]
+  },
+  {
+    "name": "Sailing",
+    "hex": [
+      "#33678A",
+      "#78A6C9",
+      "#EAEFF3",
+      "#E65C4F"
+    ]
+  },
+  {
+    "name": "Granite",
+    "hex": [
+      "#3b7b9a",
+      "#70afce",
+      "#a5def1",
+      "#ffffff"
+    ]
+  },
+  {
+    "name": "Circus",
+    "hex": [
+      "#98D7E5",
+      "#FB8570",
+      "#FFDB70",
+      "#F6F8FA"
+    ]
+  },
+  {
+    "name": "Fairy",
+    "hex": [
+      "#A163F7",
+      "#6F88FC",
+      "#45E3FF",
+      "#FF7582"
+    ]
+  },
+  {
+    "name": "Plastic",
+    "hex": [
+      "#ff5e8f",
+      "#ff8570",
+      "#ffd70",
+      "#ffe8f"
+    ]
+  },
+  {
+    "name": "Haze",
+    "hex": [
+      "#00ff00",
+      "#00ff00",
+      "#00ff00",
+      "#00ff00"
+    ]
+  },
+  {
+    "name": "Ocean",
+    "hex": [
+      "#345DA7",
+      "#3B8AC4",
+      "#4BB4DE",
+      "#EFDBCB"
+    ]
+  },
+  {
+    "name": "Petals",
+    "hex": [
+      "#fff000",
+      "#00ff00",
+      "#ff9900",
+      "#ff9900"
+    ]
+  },
+  {
+    "name": "Stormi",
+    "hex": [
+      "#3b7097",
+      "#4a8d87",
+      "#75bde0",
+      "#A2e2f8"
+    ]
+  },
+  {
+    "name": "Traverse City",
+    "hex": [
+      "#51933B",
+      "#62C4C3",
+      "#F8D49B",
+      "#F8E6CB"
+    ]
+  },
+  {
+    "name": "Glassdoor",
+    "hex": [
+      "#3D9A8B",
+      "#2EB19F",
+      "#63C2D2",
+      "#B7EDFF"
+    ]
+  },
+  {
+    "name": "Beachside",
+    "hex": [
+      "#3b7097",
+      "#75bde0",
+      "#a9d09e",
+      "#f6e2bc"
+    ]
+  },
+  {
+    "name": "Fruits Basket",
+    "hex": [
+      "#fff000",
+      "#00ff00",
+      "#ffd49b",
+      "#f86c2b"
+    ]
+  },
+  {
+    "name": "Sunrise",
+    "hex": [
+      "#75BDE0",
+      "#F8D49B",
+      "#F8C9B",
+      "#F89B9B"
+    ]
+  },
+  {
+    "name": "Kermit",
+    "hex": [
+      "#75bdeo",
+      "#78d1d2",
+      "#97dbae",
+      "#cde4ad"
+    ]
+  },
+  {
+    "name": "Ember's",
+    "hex": [
+      "#fff8c8c",
+      "#f8b9c9b",
+      "#f8d49b",
+      "#f8e6cb"
+    ]
+  },
+  {
+    "name": "Marsh",
+    "hex": [
+      "#8CAEDE",
+      "#8DC6EF",
+      "#89DDF0",
+      "#A1EA6D"
+    ]
+  },
+  {
+    "name": "Periwinkle",
+    "hex": [
+      "#9A9CEA",
+      "#A2B9EE",
+      "#A2DCEE",
+      "#ADEEE2"
+    ]
+  },
+  {
+    "name": "Melon",
+    "hex": [
+      "#97DBAE",
+      "#C3E5AE",
+      "#F1E1A6",
+      "#F4BBBB"
+    ]
+  },
+  {
+    "name": "Palm",
+    "hex": [
+      "#00ff00",
+      "#00ff00",
+      "#00ff00",
+      "#fff000"
+    ]
+  },
+  {
+    "name": "Luigi",
+    "hex": [
+      "#31B156",
+      "#7ACE67",
+      "#C2D2DA",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Lake",
+    "hex": [
+      "#2469AO",
+      "#10BCE3",
+      "#3DD6AF",
+      "#8BE27E"
+    ]
+  },
+  {
+    "name": "Cranberry",
+    "hex": [
+      "#ffd700",
+      "#ffc800",
+      "#fff900",
+      "#fff900"
+    ]
+  },
+  {
+    "name": "Campfire",
+    "hex": [
+      "#ec6014",
+      "#f88f23",
+      "#fbb931",
+      "#ffe3b3"
+    ]
+  },
+  {
+    "name": "Strawberry",
+    "hex": [
+      "#fff000",
+      "#00ff00",
+      "#c6dfe76",
+      "#ffe3b3"
+    ]
+  },
+  {
+    "name": "Popsicle",
+    "hex": [
+      "#ff3533a",
+      "#f9f42",
+      "#8ad879",
+      "#5acfc9"
+    ]
+  },
+  {
+    "name": "Cove",
+    "hex": [
+      "#006bbb",
+      "#30A0E0",
+      "#FFC872",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Kiwi",
+    "hex": [
+      "#2c3e50",
+      "#4a8b8a",
+      "#9d2e8b",
+      "#ffe3b3"
+    ]
+  },
+  {
+    "name": "Palm",
+    "hex": [
+      "#065893",
+      "#179CBC",
+      "#47CoA7",
+      "#FBE4A3"
+    ]
+  },
+  {
+    "name": "Rose",
+    "hex": [
+      "#cc1818E",
+      "#e84575",
+      "#f76caE",
+      "#ffe3b3"
+    ]
+  },
+  {
+    "name": "Seasons",
+    "hex": [
+      "#fff000",
+      "#00ff00",
+      "#ffff00",
+      "#ffff00"
+    ]
+  },
+  {
+    "name": "Sea Side",
+    "hex": [
+      "#26648E",
+      "#4F8FCO",
+      "#53D2DC",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Autumn",
+    "hex": [
+      "#ff4d3c",
+      "#f6f834",
+      "#fead4c",
+      "#ffefe3b"
+    ]
+  },
+  {
+    "name": "Caribbean",
+    "hex": [
+      "#53D2DC",
+      "#3196E2",
+      "#FFF826C",
+      "#FFC05F"
+    ]
+  },
+  {
+    "name": "Viola",
+    "hex": [
+      "#7522092",
+      "#c957bc",
+      "#ffc872",
+      "#ffe3b3"
+    ]
+  },
+  {
+    "name": "Scales",
+    "hex": [
+      "#008A30",
+      "#33BE5B",
+      "#62DC9",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Sandbox",
+    "hex": [
+      "#00ff00",
+      "#fff000",
+      "#ffb762",
+      "#ff9459"
+    ]
+  },
+  {
+    "name": "Maple",
+    "hex": [
+      "#c9284f",
+      "#fff666",
+      "#ffb072",
+      "#ffe3b3"
+    ]
+  },
+  {
+    "name": "Lavender",
+    "hex": [
+      "#3245BF",
+      "#9A5BFF",
+      "#E67BF5",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Treats",
+    "hex": [
+      "#6868A8",
+      "#ff9c65",
+      "#ffc868",
+      "#a12cb8"
+    ]
+  },
+  {
+    "name": "Frog",
+    "hex": [
+      "#00ff00",
+      "#00ff00",
+      "#00ff00",
+      "#fff000"
+    ]
+  },
+  {
+    "name": "Reef",
+    "hex": [
+      "#1855a1",
+      "#229AD4",
+      "#62d855",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Knights",
+    "hex": [
+      "#33678A",
+      "#78A6C9",
+      "#FFC872",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Fireplace",
+    "hex": [
+      "#8b2224E",
+      "#FE8C4E",
+      "#FFC972",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Wilma's",
+    "hex": [
+      "#8b0000",
+      "#66ff00",
+      "#4a0000",
+      "#e9e0e0"
+    ]
+  },
+  {
+    "name": "Wilma's",
+    "hex": [
+      "#AE5F52",
+      "#86C480",
+      "#7EB9CD",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "St. Thomas",
+    "hex": [
+      "#135079",
+      "#FE7171",
+      "#FFC972",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Island",
+    "hex": [
+      "#26648E",
+      "#61AF25",
+      "#B5DC6C",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Polaris",
+    "hex": [
+      "#3551A5",
+      "#668FCA",
+      "#6BE5DA",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Ember",
+    "hex": [
+      "#363886",
+      "#973C93",
+      "#EFF5D8",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Holidays",
+    "hex": [
+      "#00ff00",
+      "#fff000",
+      "#ffc900",
+      "#ffeb3"
+    ]
+  },
+  {
+    "name": "North Pole",
+    "hex": [
+      "#f0f0f0",
+      "#00ff00",
+      "#0f0f0f0",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Silent Night",
+    "hex": [
+      "#3C3594",
+      "#6368FF",
+      "#78C4FF",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Mizuli",
+    "hex": [
+      "#58d81",
+      "#bb61e4",
+      "#ff78dc",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Snowstorm",
+    "hex": [
+      "#00ff00",
+      "#0000FF",
+      "#0000FF",
+      "#0000FF"
+    ]
+  },
+  {
+    "name": "Elk",
+    "hex": [
+      "#08687C",
+      "#25AFA2",
+      "#6CDC8F",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Inferno",
+    "hex": [
+      "#b3220f",
+      "#f16e53",
+      "#ffc475",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Samantha",
+    "hex": [
+      "#4A54CE",
+      "#B47D7",
+      "#FFC475",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Breath & Air",
+    "hex": [
+      "#0358D0",
+      "#338BFD",
+      "#61BBFF",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Tides",
+    "hex": [
+      "#00ff00",
+      "#00ff00",
+      "#00ff00",
+      "#ffff00"
+    ]
+  },
+  {
+    "name": "Moss",
+    "hex": [
+      "#006C50",
+      "#57B22B",
+      "#AAE557",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Amphibian",
+    "hex": [
+      "#11567D",
+      "#4D8891",
+      "#6FF193",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Meadow",
+    "hex": [
+      "#00ff00",
+      "#fff000",
+      "#ffff00",
+      "#ffff00"
+    ]
+  },
+  {
+    "name": "Heather",
+    "hex": [
+      "#6C17A3",
+      "#F05EB5",
+      "#FFB878",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Fog",
+    "hex": [
+      "#22571",
+      "#0F978E",
+      "#78CC97",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Hearth",
+    "hex": [
+      "#a51a3c",
+      "#f05e5e",
+      "#ffa078",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Sunlight",
+    "hex": [
+      "#d5e11",
+      "#fff28",
+      "#fffc78",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Seafoam",
+    "hex": [
+      "#413299",
+      "#4966E0",
+      "#7EDAD5",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Anastasia",
+    "hex": [
+      "#7523A",
+      "#d463c2",
+      "#ff91ba",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Algae",
+    "hex": [
+      "#137114C",
+      "#3AB67D",
+      "#A2E494",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Flame",
+    "hex": [
+      "#ff7000",
+      "#ffa500",
+      "#ffa500",
+      "#ffff00"
+    ]
+  },
+  {
+    "name": "Reef",
+    "hex": [
+      "#085389",
+      "#43C3C3",
+      "#A2E494",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Slate",
+    "hex": [
+      "#3A5275",
+      "#7C9CB8",
+      "#B8E3B4",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Dusk",
+    "hex": [
+      "#5058BA9",
+      "#58B5DD",
+      "#8DDF9",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Lilac",
+    "hex": [
+      "#4f459A",
+      "#A575E9",
+      "#F79FF8",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Ashley",
+    "hex": [
+      "#7523A",
+      "#E168BB",
+      "#FFBA75",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Depths",
+    "hex": [
+      "#3B5199",
+      "#5F8BE1",
+      "#86BAF3",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Kyla",
+    "hex": [
+      "#1884A75",
+      "#2997AE",
+      "#65D7DD",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Sailor",
+    "hex": [
+      "#344D96",
+      "#FF8496",
+      "#FFC9A5",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Crocodile",
+    "hex": [
+      "#5d771b",
+      "#b2aa37",
+      "#f9cb6a",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Fog",
+    "hex": [
+      "#225271",
+      "#0F978E",
+      "#78CC97",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Reef",
+    "hex": [
+      "#1E5394",
+      "#489FCE",
+      "#87E1C7",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "hex": [
+      "#333F64",
+      "#44A9A7",
+      "#FFD781",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Alexa",
+    "hex": [
+      "#335675",
+      "#A653A2",
+      "#E479B",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Flames",
+    "hex": [
+      "#f9e2e9",
+      "#ffc000",
+      "#ffc000",
+      "#ffc000"
+    ]
+  },
+  {
+    "name": "Slate",
+    "hex": [
+      "#2d4242d",
+      "#5b828f",
+      "#98d9d9",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Seaweed",
+    "hex": [
+      "#21615D",
+      "#339576",
+      "#87e1C7",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Gotham",
+    "hex": [
+      "#243B68",
+      "#6D5DCF",
+      "#C17DFB",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Westly",
+    "hex": [
+      "#1c3e50",
+      "#6b5e9",
+      "#e9e9e9",
+      "#f0f0f0"
+    ]
+  },
+  {
+    "name": "Grove",
+    "hex": [
+      "#2a5d09",
+      "#69ab3c",
+      "#aed36c",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Cherry",
+    "hex": [
+      "#7E2A3B",
+      "#D04747",
+      "#FF9196",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Rose",
+    "hex": [
+      "#5C2153",
+      "#B53C7B",
+      "#F7788C",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Island",
+    "hex": [
+      "#00ff00",
+      "#00ff00",
+      "#00ff00",
+      "#00ff00"
+    ]
+  },
+  {
+    "name": "Iceland",
+    "hex": [
+      "#2b5291",
+      "#4DA7E1",
+      "#8BE5E6",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Spring",
+    "hex": [
+      "#fff000",
+      "#00ff00",
+      "#ffdd40",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Berries",
+    "hex": [
+      "#5f2683",
+      "#d5653e",
+      "#ff9dd4",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Sea Turtle",
+    "hex": [
+      "#00f0f0",
+      "#00ff00",
+      "#00f0f0",
+      "#ffff00"
+    ]
+  },
+  {
+    "name": "Crystal",
+    "hex": [
+      "#114B8A",
+      "#4774D5",
+      "#FF9D4",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Boulevard",
+    "hex": [
+      "#343F45",
+      "#70C24E",
+      "#BBD0DC",
+      "#E2ECF2"
+    ]
+  },
+  {
+    "name": "Fall Spices",
+    "hex": [
+      "#6A0300",
+      "#EB5E42",
+      "#FFBB69",
+      "#E2ECF2"
+    ]
+  },
+  {
+    "name": "Merlot",
+    "hex": [
+      "#6918D43",
+      "#CE405F",
+      "#FD8383",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Woodland",
+    "hex": [
+      "#873C3C",
+      "#7EAB49",
+      "#8BDA5F",
+      "#E2ECF2"
+    ]
+  },
+  {
+    "name": "Yellows",
+    "hex": [
+      "#fff000",
+      "#00ff00",
+      "#ff6f4A",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Orange",
+    "hex": [
+      "#B1421D",
+      "#ED8312",
+      "#FFF44B",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Red",
+    "hex": [
+      "#fff000",
+      "#00ff00",
+      "#ff6f4A",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Sundae",
+    "hex": [
+      "#573199",
+      "#A040BD",
+      "#F279DC",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Gecko",
+    "hex": [
+      "#1c3e50",
+      "#2c3e50",
+      "#5f0b9",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Ambrosia",
+    "hex": [
+      "#47286C",
+      "#BD4084",
+      "#F9889D",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Hyde Park",
+    "hex": [
+      "#145B5E",
+      "#56C48F",
+      "#FFCA7F",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Wilma",
+    "hex": [
+      "#34473",
+      "#4b9b87",
+      "#96cf91",
+      "#e9ebed"
+    ]
+  },
+  {
+    "name": "Pumpkin",
+    "hex": [
+      "#6F2752",
+      "#DC7957",
+      "#FFD57F",
+      "#E9EED"
+    ]
+  },
+  {
+    "name": "Seaweed",
+    "hex": [
+      "#21605D",
+      "#339476",
+      "#87EIC7",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Gotham",
+    "hex": [
+      "#243b67",
+      "#6E5DCF",
+      "#C27DFC",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Dragon",
+    "hex": [
+      "#334f64",
+      "#46A8A7",
+      "#FFD782",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Crocodile",
+    "hex": [
+      "#5D78IB",
+      "#B3A938",
+      "#FBCA6B",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Ashley",
+    "hex": [
+      "#75329B",
+      "#E268BB",
+      "#FFBA75",
+      "#E9EBEE"
+    ]
+  },
+  {
+    "name": "Grove",
+    "hex": [
+      "#295d09",
+      "#69AB3D",
+      "#AED36C",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Sea Turtle",
+    "hex": [
+      "#06092",
+      "#1FC4DA",
+      "#82EFEA",
+      "#E9EBED"
+    ]
+  },
+  {
+    "name": "Sea Side",
+    "hex": [
+      "#26648B",
+      "#4F8FBF",
+      "#53D2DB",
+      "#FFE3B3"
+    ]
+  },
+  {
+    "name": "Slate",
+    "hex": [
+      "#2E4242D",
+      "#5B8291",
+      "#98DAD9",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Westly",
+    "hex": [
+      "#244D61",
+      "#5689C0",
+      "#75E2FF",
+      "#EAEBED"
+    ]
+  },
+  {
+    "name": "Riot",
+    "hex": [
+      "#FFFFF",
+      "#9BA5C9"
+    ]
+  },
+  {
+    "name": "Docks",
+    "hex": [
+      "#42506B",
+      "#EF4B4C",
+      "#3E6191B",
+      "#E9E9EB"
+    ]
+  },
+  {
+    "name": "Mutable",
+    "hex": [
+      "#3b99b",
+      "#EE5873",
+      "#5778a3",
+      "#E3e4e6"
+    ]
+  },
+  {
+    "name": "lavender",
+    "hex": [
+      "#c2508b",
+      "#f57dBA",
+      "#5e4dAB",
+      "#974ec2"
+    ]
+  },
+  {
+    "name": "Embers",
+    "hex": [
+      "#41436A",
+      "#974063",
+      "#F5478",
+      "#FF9677"
+    ]
+  },
+  {
+    "name": "Granite",
+    "hex": [
+      "#3A7B99",
+      "#70AFCE",
+      "#A5DEF1",
+      "#FFFFF"
+    ]
+  },
+  {
+    "name": "Summer",
+    "hex": [
+      "#2D8D79",
+      "#8FC79A",
+      "#5E9387",
+      "#CEE9B6"
+    ]
+  },
+  {
+    "name": "Lagoon",
+    "hex": [
+      "#0295A9",
+      "#12ADC1",
+      "#FDD037",
+      "#FFFFF"
+    ]
+  },
+  {
+    "name": "Moss",
+    "hex": [
+      "#016170",
+      "#009393",
+      "#00E06C",
+      "#FFFFF"
+    ]
+  },
+  {
+    "name": "Cabana",
+    "hex": [
+      "#236AD6",
+      "#2095F2",
+      "#D7415D",
+      "#FFD960"
+    ]
+  },
+  {
+    "name": "Sunset",
+    "hex": [
+      "#355CD",
+      "#725A7A",
+      "#C56D86",
+      "#FF7582"
+    ]
+  },
+  {
+    "name": "Sailing",
+    "hex": [
+      "#326789",
+      "#78A6C8",
+      "#E9EF2",
+      "#E65C4F"
+    ]
+  },
+  {
+    "name": "Periwinkle",
+    "hex": [
+      "#9A9CE9",
+      "#A2B9ED",
+      "#A3DCEF",
+      "#AEEDE2"
+    ]
+  },
+  {
+    "name": "Haze",
+    "hex": [
+      "#0F6BAC",
+      "#258BD6",
+      "#84B7FE",
+      "#C6CEFF"
+    ]
+  },
+  {
+    "name": "Ocean",
+    "hex": [
+      "#345EA8",
+      "#3B8AC3",
+      "#4AB4DE",
+      "#EEDBCB"
+    ]
+  },
+  {
+    "name": "Petals",
+    "hex": [
+      "#FA8D70",
+      "#FFFA197",
+      "#FFFBAC4",
+      "#FOD794"
+    ]
+  },
+  {
+    "name": "Stromi",
+    "hex": [
+      "#3B7197",
+      "#4A8DB7",
+      "#74BDE0",
+      "#A1E1FA"
+    ]
+  },
+  {
+    "name": "Glassdoor",
+    "hex": [
+      "#3D98BA",
+      "#2EB1A1",
+      "#64C1D1",
+      "#B8EDFF"
+    ]
+  },
+  {
+    "name": "Plastic",
+    "hex": [
+      "#FFE5EC2",
+      "#FC8571",
+      "#FFF86B9",
+      "#FFDB70"
+    ]
+  },
+  {
+    "name": "Fairy",
+    "hex": [
+      "#A162F7",
+      "#6F88FC",
+      "#45E3FF",
+      "#EFFFF1"
+    ]
+  },
+  {
+    "name": "Kermit",
+    "hex": [
+      "#74BDE0",
+      "#78D2D3",
+      "#98DBAF",
+      "#CDE4AC"
+    ]
+  },
+  {
+    "name": "Turtles",
+    "hex": [
+      "#46A094",
+      "#6BBD99",
+      "#AECF4",
+      "#C4E8C2"
+    ]
+  },
+  {
+    "name": "Circus",
+    "hex": [
+      "#98D7E6",
+      "#FC8571",
+      "#FFDB70",
+      "#F7F8FA"
+    ]
+  },
+  {
+    "name": "Ember",
+    "hex": [
+      "#FE8C8C",
+      "#F8B9CA",
+      "#F8D49A",
+      "#F7E6CA"
+    ]
+  },
+  {
+    "name": "Beachside",
+    "hex": [
+      "#3B7197",
+      "#74BDE0",
+      "#AAD09F",
+      "#F8E2BD"
+    ]
+  },
+  {
+    "name": "Marsh",
+    "hex": [
+      "#8CAEDE",
+      "#8FC6EF",
+      "#88DDF0",
+      "#A1EAD6"
+    ]
+  },
+  {
+    "name": "Fruits Basket",
+    "hex": [
+      "#e98a42",
+      "#BACB95",
+      "#F8d49A",
+      "#F7E6CA"
+    ]
+  },
+  {
+    "name": "Sunrise",
+    "hex": [
+      "#74BDE0",
+      "#F8D49A",
+      "#F8BC9A",
+      "#F99B9B"
+    ]
+  },
+  {
+    "name": "Petals",
+    "hex": [
+      "#FA8D70",
+      "#FFFA197",
+      "#FFFBAC4",
+      "#FOD794"
+    ]
+  },
+  {
+    "name": "Candle",
+    "hex": [
+      "#FA8D70",
+      "#FCC666",
+      "#73607C",
+      "#C1B9AE"
+    ]
+  },
+  {
+    "name": "Fruits Basket",
+    "hex": [
+      "#e98a42",
+      "#BACB95",
+      "#F8d49A",
+      "#F7E6CA"
+    ]
+  },
+  {
+    "name": "Color Palette #01",
+    "hex": [
+      "#058240",
+      "#87C159",
+      "#ADCACB",
+      "#FEE3A2",
+      "#F3C301"
+    ]
+  },
+  {
+    "name": "Color Palette #02",
+    "hex": [
+      "#F27B57",
+      "#FBCE02",
+      "#A96F47",
+      "#5D4A39",
+      "#091B1A"
+    ]
+  },
+  {
+    "name": "Color Palette #03",
+    "hex": [
+      "#B20000",
+      "#FD292F",
+      "#FE8535",
+      "#FDB10B",
+      "#EFF4CO"
+    ]
+  },
+  {
+    "name": "Color Palette #04",
+    "hex": [
+      "#fff527",
+      "#f38200"
+    ]
+  },
+  {
+    "name": "Color Palette #08",
+    "hex": [
+      "#281B73",
+      "#6D45C1",
+      "#F4EDE8",
+      "#D2B7C5",
+      "#B064A4"
+    ]
+  },
+  {
+    "name": "Color Palette #01",
+    "hex": [
+      "#432C6D",
+      "#80689D",
+      "#D6CDE9",
+      "#F3E6ED",
+      "#2C115E"
+    ]
+  },
+  {
+    "name": "Color Palette #02",
+    "hex": [
+      "#674CAE",
+      "#967FCF",
+      "#D4C1EC",
+      "#FAF5FF",
+      "#EEDEF6"
+    ]
+  },
+  {
+    "name": "Color Palette #05",
+    "hex": [
+      "#2D049A",
+      "#8262F7",
+      "#D0BOFF",
+      "#FBFAED",
+      "#6A6AFF"
+    ]
+  },
+  {
+    "name": "Color Palette #03",
+    "hex": [
+      "#31566",
+      "#7624F4",
+      "#D0B9FF",
+      "#F7EEFF",
+      "#FFD19E"
+    ]
+  },
+  {
+    "name": "Color Palette #06",
+    "hex": [
+      "#310C73",
+      "#6425E8",
+      "#CEBEF1",
+      "#FEFDFF",
+      "#FC5521"
+    ]
+  },
+  {
+    "name": "Color Palette #07",
+    "hex": [
+      "#IF095A",
+      "#8E62DD",
+      "#D5C2F7",
+      "#F5F4F0",
+      "#BE9F8B"
+    ]
+  },
+  {
+    "name": "Color Palette #04",
+    "hex": [
+      "#564C55",
+      "#BC2041",
+      "#FDBF6E",
+      "#9E8279",
+      "#654483D"
+    ]
+  },
+  {
+    "name": "Color Palette #05",
+    "hex": [
+      "#B76C49",
+      "#FFC9B3",
+      "#F7F7F9",
+      "#F8AE29",
+      "#5C7728"
+    ]
+  },
+  {
+    "name": "Color Palette #06",
+    "hex": [
+      "#041721",
+      "#1B4645",
+      "#279667",
+      "#F68800",
+      "#F9BD24"
+    ]
+  },
+  {
+    "name": "Color Palette #01",
+    "hex": [
+      "#F94892",
+      "#FF7F3F",
+      "#FBDF07",
+      "#89CCFD"
+    ]
+  },
+  {
+    "name": "Color Palette #08",
+    "hex": [
+      "#9ADCFF",
+      "#FFF89A",
+      "#FFF2A6",
+      "#FF8AAE"
+    ]
+  },
+  {
+    "name": "Color Palette #05",
+    "hex": [
+      "#CDF0EA",
+      "#F9F9F9",
+      "#F6C6EA",
+      "#FAF4B7"
+    ]
+  },
+  {
+    "name": "Color Palette #03",
+    "hex": [
+      "#31087B",
+      "#2095F4",
+      "#FA2FB5",
+      "#FFC23C"
+    ]
+  },
+  {
+    "name": "Color Palette #06",
+    "hex": [
+      "#AB46D2",
+      "#FF6FB5",
+      "#55D8C1",
+      "#FCF69C"
+    ]
+  },
+  {
+    "name": "Color Palette #04",
+    "hex": [
+      "#377D71",
+      "#FBC5C5",
+      "#FBA1A1",
+      "#8879B0"
+    ]
+  },
+  {
+    "name": "Color Palette #07",
+    "hex": [
+      "#470D8",
+      "#990FO",
+      "#F900BF",
+      "#FFF85B3"
+    ]
+  },
+  {
+    "name": "Color Palette #02",
+    "hex": [
+      "#555994",
+      "#F675A8",
+      "#F29393",
+      "#FFCCB3"
+    ]
+  },
+  {
+    "name": "Color Palette #08",
+    "hex": [
+      "#OF3047",
+      "#C63A32",
+      "#E88431",
+      "#F4C05F",
+      "#E9E2BC"
+    ]
+  },
+  {
+    "name": "Color Palette #09",
+    "hex": [
+      "#3C5B66",
+      "#FEF2B8",
+      "#D7A151",
+      "#923330",
+      "#4D1211"
+    ]
+  },
+  {
+    "name": "Color Palette #10",
+    "hex": [
+      "#425A7D",
+      "#AOCOD6",
+      "#E5FAFC",
+      "#DF7356",
+      "#2A3240"
+    ]
+  },
+  {
+    "name": "Color Palette #11",
+    "hex": [
+      "#CCD2C6",
+      "#8BA88E",
+      "#5A786F",
+      "#3A4E51",
+      "#323E45"
+    ]
+  },
+  {
+    "name": "Color Palette #12",
+    "hex": [
+      "#F6BF44",
+      "#E9612C",
+      "#EB356F",
+      "#7844E3",
+      "#4A88F7"
+    ]
+  },
+  {
+    "name": "Color Palette #13",
+    "hex": [
+      "#264653",
+      "#2A9D8F",
+      "#E9C46A",
+      "#F4A261",
+      "#E76F51"
+    ]
+  },
+  {
+    "name": "Color Palette #14",
+    "hex": [
+      "#CDB4BD",
+      "#FFC8DD",
+      "#FFAFCC",
+      "#BDE0FE",
+      "#A2D2FF"
+    ]
+  },
+  {
+    "name": "Color Palette #15",
+    "hex": [
+      "#264653",
+      "#2A9D8F",
+      "#E9C46A",
+      "#F4A261",
+      "#E76F51"
+    ]
+  },
+  {
+    "name": "Color Palette #17",
+    "hex": [
+      "#BDC65B",
+      "#FFC770",
+      "#F4C4D2",
+      "#B3DDBD"
+    ]
+  },
+  {
+    "name": "Color Palette #18",
+    "hex": [
+      "#0098AF",
+      "#C8D8A5",
+      "#DDE5B4",
+      "#FB6B60",
+      "#CBCBCB"
+    ]
+  },
+  {
+    "name": "Color Palette #19",
+    "hex": [
+      "#00963",
+      "#008EC5",
+      "#4BC4F1",
+      "#FCD037",
+      "#E55E5"
+    ]
+  },
+  {
+    "name": "Color Palette #20",
+    "hex": [
+      "#2365BB",
+      "#B3C6E1",
+      "#DBE1EF",
+      "#3282C3",
+      "#BBB9A8"
+    ]
+  },
+  {
+    "name": "Color Palette #21",
+    "hex": [
+      "#00d6aac",
+      "#f4d965",
+      "#f6cb64",
+      "#f8a075",
+      "#e46d5a"
+    ]
+  },
+  {
+    "name": "Color Palette #22",
+    "hex": [
+      "#008C95",
+      "#F3CD91",
+      "#FBB874",
+      "#E47946",
+      "#E55E5"
+    ]
+  },
+  {
+    "name": "Color Palette #23",
+    "hex": [
+      "#FFE7B7",
+      "#F3B864",
+      "#E7A858",
+      "#D6773B",
+      "#F9C875"
+    ]
+  },
+  {
+    "name": "Color Palette #24",
+    "hex": [
+      "#2f74c8",
+      "#2169a3",
+      "#408fce",
+      "#cbcbcb",
+      "#e6e6e4"
+    ]
+  },
+  {
+    "name": "Color Palette #25",
+    "hex": [
+      "#67CA7",
+      "#F5D6A7",
+      "#F1BD92",
+      "#E4B59E",
+      "#8B8B8B"
+    ]
+  },
+  {
+    "name": "Color Palette #26",
+    "hex": [
+      "#507394",
+      "#8A5BD",
+      "#95B3CA",
+      "#BBD0DE",
+      "#C9D8E5"
+    ]
+  },
+  {
+    "name": "Color Palette #27",
+    "hex": [
+      "#5A0C0",
+      "#D1D0DE",
+      "#DFDFEB",
+      "#9EA4C3",
+      "#A7B1D4"
+    ]
+  },
+  {
+    "name": "Color Palette #28",
+    "hex": [
+      "#00949",
+      "#006C5",
+      "#FCEA3B",
+      "#FDD94D",
+      "#FEE49F"
+    ]
+  },
+  {
+    "name": "Color Palette #30",
+    "hex": [
+      "#04940",
+      "#005c53",
+      "#9fc131",
+      "#DBF227",
+      "#D6D58E"
+    ]
+  },
+  {
+    "name": "Color Palette #31",
+    "hex": [
+      "#F1B7C1",
+      "#F2BED8",
+      "#9CEED9",
+      "#A0DBD0",
+      "#FDE2AC"
+    ]
+  },
+  {
+    "name": "Color Palette #32",
+    "hex": [
+      "#FFDE2AC",
+      "#FC9C83",
+      "#976593",
+      "#6A5487",
+      "#45457E"
+    ]
+  },
+  {
+    "name": "Color Palette #33",
+    "hex": [
+      "#11D41",
+      "#1A5175",
+      "#F4F1C9",
+      "#F17C12",
+      "#A90206"
+    ]
+  },
+  {
+    "name": "Color Palette #34",
+    "hex": [
+      "#07485D",
+      "#027DA",
+      "#FFEFE",
+      "#F54E29",
+      "#605249"
+    ]
+  },
+  {
+    "name": "Color Palette #35",
+    "hex": [
+      "#188A94",
+      "#4DC4B3",
+      "#B6F7FC",
+      "#F9A27D",
+      "#FD472C"
+    ]
+  },
+  {
+    "name": "Color Palette #36",
+    "hex": [
+      "#c95b6c",
+      "#fff7368",
+      "#fbc86c",
+      "#5690cf",
+      "#2f5c8c"
+    ]
+  },
+  {
+    "name": "Color Palette #38",
+    "hex": [
+      "#1D2038",
+      "#5B79C8",
+      "#FEC74E",
+      "#FF6738",
+      "#EA5147"
+    ]
+  },
+  {
+    "name": "Color Palette #39",
+    "hex": [
+      "#DIDED3",
+      "#9CBFAC",
+      "#719D99",
+      "#45767C",
+      "#29445D"
+    ]
+  },
+  {
+    "name": "Color Palette #40",
+    "hex": [
+      "#39888D",
+      "#F1B98C",
+      "#F39F7E",
+      "#D95C59",
+      "#F0A7A5"
+    ]
+  },
+  {
+    "name": "Color Palette #41",
+    "hex": [
+      "#6CBDBF",
+      "#F1BAD",
+      "#FDEDD6",
+      "#FFF2E8",
+      "#E2A020"
+    ]
+  },
+  {
+    "name": "Color Palette #42",
+    "hex": [
+      "#04305A",
+      "#02243F",
+      "#F2A13B",
+      "#F27B12",
+      "#F55119"
+    ]
+  },
+  {
+    "name": "Color Palette #43",
+    "hex": [
+      "#839AA7",
+      "#AEB7C2",
+      "#F4E6D9",
+      "#D9C9BA",
+      "#755E51"
+    ]
+  },
+  {
+    "name": "Color Palette #44",
+    "hex": [
+      "#21254",
+      "#4CA5B0",
+      "#F3CA81",
+      "#F38E67",
+      "#F65D53"
+    ]
+  },
+  {
+    "name": "Color Palette #45",
+    "hex": [
+      "#fff000",
+      "#00000000",
+      "#14213D",
+      "#FCA311",
+      "#E5E5E5"
+    ]
+  },
+  {
+    "name": "Color Palette #46",
+    "hex": [
+      "#2D4B8A",
+      "#3C6EC6",
+      "#FFC100",
+      "#FE6603",
+      "#03SA5"
+    ]
+  },
+  {
+    "name": "COLOR PALETTE #47",
+    "hex": [
+      "#53808",
+      "#355564",
+      "#FDE8E1",
+      "#FEC67C",
+      "#FFEBBC"
+    ]
+  },
+  {
+    "name": "Color Palette #48",
+    "hex": [
+      "#E99E75",
+      "#444426E",
+      "#776483",
+      "#BBAAB8",
+      "#292643"
+    ]
+  },
+  {
+    "name": "Color Palette #49",
+    "hex": [
+      "#51DBFF",
+      "#FAD6EB",
+      "#A45CB9",
+      "#FFF606",
+      "#FFF5B81"
+    ]
+  },
+  {
+    "name": "Color Palette #50",
+    "hex": [
+      "#fff000",
+      "#00000000",
+      "#14213D",
+      "#FCA311",
+      "#E4E4E4"
+    ]
+  },
+  {
+    "name": "Color Palette #51",
+    "hex": [
+      "#fff000",
+      "#00ff00"
+    ]
+  },
+  {
+    "name": "Color Palette #52",
+    "hex": [
+      "#EA8C56",
+      "#C75147",
+      "#AD2E25",
+      "#8117B",
+      "#530803"
+    ]
+  },
+  {
+    "name": "Color Palette #53",
+    "hex": [
+      "#FC5C04",
+      "#FBA363",
+      "#142D4D",
+      "#7AD8FE",
+      "#32A6D5"
+    ]
+  },
+  {
+    "name": "Color Palette #54",
+    "hex": [
+      "#fff000",
+      "#00ff00"
+    ]
+  }
+]
