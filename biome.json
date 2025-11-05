@@ -1,0 +1,83 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.7.3/schema.json",
+	"organizeImports": {
+		"enabled": true
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true,
+			"correctness": {
+				"noUndeclaredDependencies": "error",
+				"noUnusedPrivateClassMembers": "error",
+				"noUnusedVariables": "error",
+				"useArrayLiterals": "error",
+				"useImportExtensions": "error"
+			},
+			"performance": {
+				"noBarrelFile": "warn",
+				"noReExportAll": "error"
+			},
+			"style": {
+				"noParameterAssign": "off",
+				"noDefaultExport": "warn",
+				"noUnusedTemplateLiteral": "off",
+				"noNamespace": "warn",
+				"noNamespaceImport": "warn",
+				"noYodaExpression": "error",
+				"useCollapsedElseIf": "error",
+				"noShoutyConstants": "error",
+				"useConsistentArrayType": "error",
+				"useConsistentBuiltinInstantiation": "error",
+				"useDefaultSwitchClause": "error",
+				"useFilenamingConvention": {
+					"options": {
+						"filenameCases": ["kebab-case"],
+						"requireAscii": true
+					},
+					"level": "error"
+				},
+				"useForOf": "warn",
+				"useNamingConvention": {
+					"level": "error",
+					"options": {
+						"strictCase": true,
+						"conventions": [
+							{
+								"selector": {
+									"kind": "classMember"
+								},
+								"formats": ["camelCase"]
+							},
+							{
+								"selector": {
+									"kind": "typeLike"
+								},
+								"formats": ["PascalCase"]
+							}
+						]
+					}
+				},
+				"useNodejsImportProtocol": "error",
+				"useNumberNamespace": "error",
+				"useSingleVarDeclarator": "error",
+				"useTemplate": "error",
+				"useThrowNewError": "error",
+				"useThrowOnlyError": "error",
+				"useWhile": "error"
+			},
+			"suspicious": {
+				"useAwait": "error",
+				"useErrorMessage": "error"
+			}
+		}
+	},
+	"files": {
+		"ignore": ["fixtures", ".changeset", "package.json", "jsr.json"]
+	},
+	"vcs": {
+		"enabled": true,
+		"clientKind": "git",
+		"useIgnoreFile": true
+	}
+}
